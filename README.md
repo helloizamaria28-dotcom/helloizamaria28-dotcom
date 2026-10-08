@@ -1,4 +1,4 @@
-Olá! Eu sou a Maria 
+# Olá! Eu sou a Maria 
  Desenvolvedora Web em formação
 
 Sou uma desenvolvedora iniciante apaixonada por tecnologia e desenvolvimento web.
